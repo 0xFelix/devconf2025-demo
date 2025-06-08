@@ -30,6 +30,6 @@
                 userData: |-
                   #cloud-config
                   ssh_authorized_keys:
-                    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILe9kaZVLVoGsFGmdmlR1jZLKwh88/Qlz7KgU17AY1s7
+                    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH0iWsu7fWhvcKkA5+m0QKpz0RYpUZ9uWq01UkGeiDKR
               name: cloudinit
         wait: true
